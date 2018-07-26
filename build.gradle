@@ -32,7 +32,7 @@ dependencies {
     compile('org.springframework.boot:spring-boot-starter-actuator')
     compile('org.springframework.boot:spring-boot-starter-web')
     compile('org.springframework.cloud:spring-cloud-starter-kubernetes-config:0.3.0.RC1')
-    compile('org.infinispan:infinispan-core:9.3.1.Final')
+//    compile('org.infinispan:infinispan-core:9.3.1.Final')
     testCompile('org.springframework.boot:spring-boot-starter-test')
 }
 
